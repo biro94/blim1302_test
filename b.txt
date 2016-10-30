@@ -1,3 +1,7 @@
 abc
+<<<<<<< HEAD
 def
 modified on mester
+=======
+modified on branch
+>>>>>>> branch1
